@@ -2,9 +2,6 @@
 
 '''
 #-------------------------------------------------------------------------------
-#Author:Ming Lee(minnglee@163.com)
-#Time:  2015/09/17
-#Version: 2.0
 #useage: python script.py snp_list bam_file reads_length output_file results_file
 #-------------------------------------------------------------------------------
 '''
